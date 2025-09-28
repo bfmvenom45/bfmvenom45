@@ -17,6 +17,7 @@ I build fast, accessible interfaces with smooth motion and web-3D.
 Remote (Ukraine, UTC+3). Open to opportunities.
 
 **Featured projects**  
+- PIXEL UNIVERSE LAB — <a href="https://pixel-universe.vercel.app/">demo</a> · <a href="https://github.com/bfmvenom45/pixel-universe-lab">code</a>  
 - iPhone 15 — <a href="https://apple-website-plum-mu.vercel.app/">demo</a> · <a href="https://github.com/bfmvenom45/apple_website">code</a>  
 - Xora SaaS — <a href="https://xora-saas-landing.vercel.app">demo</a> · <a href="https://github.com/bfmvenom45/xora">code</a>  
 - ThreeJS Portfolio — <a href="https://threejs-portfolio-3d.vercel.app">demo</a> · <a href="https://github.com/bfmvenom45/threejs-portfolio-3d">code</a>  
@@ -29,4 +30,3 @@ Remote (Ukraine, UTC+3). Open to opportunities.
 </p>
 
 <sub>Some projects are educational replicas and not affiliated with mentioned brands.</sub>
-
