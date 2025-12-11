@@ -57,8 +57,4 @@
 </details>
 
 <br />
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfmvenom45&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=999&icon_color=DA1F26)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfmvenom45&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999)
+username=bfmvenom45&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999)
