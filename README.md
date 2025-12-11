@@ -1,5 +1,5 @@
 <h1 align="center">Oleksandr Bushko</h1>
-<p align="center">Frontend Developer · React · TypeScript · Three.js/R3F · GSAP</p>
+<p align="center">Frontend Developer · React · Next.js · TypeScript · Three.js/R3F · GSAP</p>
 
 <p align="center">
   <a href="https://dev-bushko.vercel.app">
@@ -14,10 +14,17 @@
 </p>
 
 I build fast, accessible interfaces with smooth motion and web-3D.  
-Remote (Ukraine, UTC+3). Open to opportunities.
+Remote (Ukraine, UTC+2). Open to opportunities.
 
-**Featured projects**  
-## Projects
+## Featured Projects
+
+- **Stock Market App (Next.js)** — Financial analytics dashboard: secure user auth, interactive real-time charts, and dynamic stock data tables using server-side data fetching.  
+  _Stack:_ Next.js, React, Tailwind, Chart.js, API Integration ·
+  **[demo](https://stock-market-app-nextjs-p1w2-ac658kju0-bfmvenom45s-projects.vercel.app/sign-in)** · **[code](https://github.com/bfmvenom45/stock-market-app-nextjs)**
+
+- **MacOS Portfolio** — Interactive desktop interface experience: drag-and-drop windows, dock navigation, and fluid system animations mimicking the macOS environment.  
+  _Stack:_ React, Vite, CSS3, Framer Motion/Animations ·
+  **[demo](https://mac-os-portfolio-vert.vercel.app)** · **[code](https://github.com/bfmvenom45/MacOS_portfolio)**
 
 - **Apple MacBook GSAP App** — Futuristic web experience: Canvas particles, holographic 3D, smooth GSAP timelines, glassmorphism UI.  
   _Stack:_ React, Vite, GSAP, Canvas API, Three.js/R3F, Zustand, WebGL ·
@@ -43,17 +50,17 @@ Remote (Ukraine, UTC+3). Open to opportunities.
   _Stack:_ React, Redux Toolkit, React Hook Form, Zod, Tailwind ·
   **[demo](https://ai-resume-builder-5lx1.vercel.app/)** · **[code](https://github.com/bfmvenom45/ai-resume-builder)**
 
-- **GLB Glow** — Glow/Bloom for GLB/GLTF in the browser: R3F + Three.js, GLSL shaders, post-processing and reusable presets.  
-  _Stack:_ React, Three.js/R3F, WebGL, GLSL ·
-  **[demo](https://github.com/bfmvenom45/glb-glow)** · **[code](https://github.com/bfmvenom45/glb-glow)**
-
 - **TMDB Movie App** — Search, filters, infinite scroll; robust loading/empty/error UX; “Watch later” list with Redux Toolkit.  
   _Stack:_ React, Redux Toolkit, TMDB API, CSS ·
   **[demo](https://js-19-movie-app-youtube.vercel.app)** · **[code](https://github.com/bfmvenom45/js-19-movie-app-youtube)**
 
+- **GLB Glow** — Glow/Bloom for GLB/GLTF in the browser: R3F + Three.js, GLSL shaders, post-processing and reusable presets.  
+  _Stack:_ React, Three.js/R3F, WebGL, GLSL ·
+  **[demo](https://github.com/bfmvenom45/glb-glow)** · **[code](https://github.com/bfmvenom45/glb-glow)**
+
 **Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,threejs,gsap,tailwind,redux,vite,vercel" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,gsap,tailwind,redux,vite,vercel" alt="tech stack icons" />
 </p>
 
 <sub>Some projects are educational replicas and not affiliated with mentioned brands.</sub>
