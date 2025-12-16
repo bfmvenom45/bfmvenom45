@@ -57,4 +57,3 @@
 </details>
 
 <br />
-username=bfmvenom45&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999)
